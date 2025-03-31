@@ -8,7 +8,7 @@ This chatbot is designed to **enhance user engagement** with AI-driven conversat
 
 The chatbot is built with a clean and minimalistic design to ensure an intuitive and modern experience.  
 
-###**Key Features**  
+#### **Key Features**  
 
 - **AI-powered responses** using Gemini API  
 - **Smooth typing effect** for realistic interactions    
